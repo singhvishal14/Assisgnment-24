@@ -1,0 +1,8 @@
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\bin\Debug\ConAppAssisgnment24.exe.config
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\bin\Debug\ConAppAssisgnment24.exe
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\bin\Debug\ConAppAssisgnment24.pdb
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\obj\Debug\ConAppAssisgnment24.csproj.AssemblyReference.cache
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\obj\Debug\ConAppAssisgnment24.csproj.SuggestedBindingRedirects.cache
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\obj\Debug\ConAppAssisgnment24.csproj.CoreCompileInputs.cache
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\obj\Debug\ConAppAssisgnment24.exe
+D:\Angular Self paced\Assisgnment\ConAppAssisgnment24\ConAppAssisgnment24\obj\Debug\ConAppAssisgnment24.pdb
